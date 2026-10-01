@@ -1,0 +1,12 @@
+title: Adam Fan
+description: Notes on networking, P4 and systems work. CS junior at NCKU × Purdue, research assistant at Academia Sinica.
+author: Adam Fan
+url: "https://adam010341.github.io"
+github_username: Adam010341
+theme: minima
+minima:
+  social_links:
+    github: Adam010341
+plugins:
+  - jekyll-feed
+permalink: /:year/:month/:day/:title/
